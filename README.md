@@ -34,7 +34,7 @@ Graduated **110 cum laude / 110**
 **Multi-Robot Systems Summer School**  
 **July 2024 | Prague, Czech Republic**
 
-## Projects
+## Personal Projects
 
 ### [TRIP - Low-Cost Robotic Platform](https://github.com/DavDori/TRIP-Tracked-Robot)
 Open-source mobile robot for testing SLAM and robotic algorithms.
