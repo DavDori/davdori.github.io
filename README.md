@@ -1,6 +1,11 @@
 ## Robotics & SLAM Engineer
 
 PhD Candidate passionate about robotic perception, SLAM, and sensor fusion. Working with ROS2, LiDAR, UWB, and IMUs.
+## Skills
+
+- **Programming**: C++, Python, Matlab
+- **Technology**: ROS1/ROS2, Git, Docker, PCL, Unity, Gazebo, YOLO
+- **Hardware**: LiDAR, Mono-camera, Stereo-camera, IMU, UWB
 
 ## Work Experience
 
@@ -33,16 +38,20 @@ Graduated **110 cum laude / 110**
 ### [TRIP - Low-Cost Robotic Platform](https://github.com/DavDori/TRIP-Tracked-Robot)
 Open-source mobile robot for testing SLAM and robotic algorithms.
 
-### DuckPlotter - 2D Plotter
+<img src="https://github.com/DavDori/TRIP-Tracked-Robot/blob/main/Imgs/trip_teleop.gif" alt="TRIP Project Image">
+
+### [DuckPlotter - 2D Plotter](https://github.com/davidezanella/DuckPlotter)
 A lightweight, portable 2D plotter with classical computer vision algorithms for image-to-path conversion.
+
+<img src="https://github.com/davidezanella/DuckPlotter/blob/master/duckplotter.jpg" alt="Duck Plotter Project Image">
 
 ## Publications
 
 1. **D. Dorigoni and D. Fontanelli** - *An uncertainty-driven analysis for delayed mapping SLAM.* (IEEE I2MTC 2021)
-2. **D. Dorigoni et al.** - *Fostering precision agriculture through affordable 3D LiDAR deskewing with EKF.* (IEEE SAS 2024)
+2. **D. Dorigoni, F. Shamsfakhr, M. Pincheira, M. Vecchio, F. Antonelli** - *Fostering precision agriculture through affordable 3D LiDAR deskewing with EKF.* (IEEE SAS 2024)
 
 ## Contact
 
-[GitHub](https://github.com/DavDori) | [LinkedIn](https://www.linkedin.com/in/davide-dorigoni)
+[GitHub](https://github.com/DavDori) | [LinkedIn](https://www.linkedin.com/in/davide-dorigoni-a3385b207)
 
 ---
