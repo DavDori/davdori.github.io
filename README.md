@@ -27,12 +27,13 @@ PhD Candidate passionate about robotic perception, SLAM, and sensor fusion. Work
 
 ### University of Trento
 **Master’s Degree in Mechatronics Engineering (LM-33)**  
-**October 2020 – March 2023 | Trento, Italy**  
+October 2020 – March 2023 | Trento, Italy  
 Graduated **110 cum laude / 110**
 
 ### MRS Summer School
-**Multi-Robot Systems Summer School**  
-**July 2024 | Prague, Czech Republic**
+Multi-Robot Systems Summer School  
+July 2024 | Prague, Czech Republic
+
 ## Projects
 
 ### Agrifood TEF ([link](https://www.agrifoodtef.eu/))
@@ -41,7 +42,7 @@ Europen project with the aim of developing testing and experimenting infrastruct
 
 ## Personal Projects
 
-### [TRIP - Low-Cost Robotic Platform](https://github.com/DavDori/TRIP-Tracked-Robot)
+### TRIP - Low-Cost Robotic Platform ([link](https://github.com/DavDori/TRIP-Tracked-Robot))
 Open-source mobile robot for testing SLAM and robotic algorithms.
 
 ### Rotating 2D LiDAR
@@ -51,8 +52,7 @@ Cheap solution for 3D mapping with a 2D LiDAR and a stepper motor.
 - Control node [DavDori/rotating_lidar_control_ros2](https://github.com/DavDori/rotating_lidar_control_ros2)
 - Point cloud node [DavDori/rotating_lidar_accumulator_ros2](https://github.com/DavDori/rotating_lidar_accumulator_ros2)
 
-
-### [DuckPlotter - 2D Plotter](https://github.com/davidezanella/DuckPlotter)
+### DuckPlotter - 2D Plotter ([link](https://github.com/davidezanella/DuckPlotter))
 A lightweight, portable 2D plotter with classical computer vision algorithms for image-to-path conversion.
 
 
