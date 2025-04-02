@@ -39,8 +39,6 @@ Graduated **110 cum laude / 110**
 ### [TRIP - Low-Cost Robotic Platform](https://github.com/DavDori/TRIP-Tracked-Robot)
 Open-source mobile robot for testing SLAM and robotic algorithms.
 
-<img src="https://github.com/DavDori/TRIP-Tracked-Robot/blob/main/Imgs/trip_teleop.gif" alt="TRIP Project Image" width="60%">
-
 ### Rotating 2D LiDAR
 
 Cheap solution for 3D mapping with a 2D LiDAR and a stepper motor.
@@ -48,15 +46,10 @@ Cheap solution for 3D mapping with a 2D LiDAR and a stepper motor.
 - Control node [DavDori/rotating_lidar_control_ros2](https://github.com/DavDori/rotating_lidar_control_ros2)
 - Point cloud node [DavDori/rotating_lidar_accumulator_ros2](https://github.com/DavDori/rotating_lidar_accumulator_ros2)
 
-<p float="left">
-    <img src="https://github.com/DavDori/rotating_lidar_accumulator_ros2/blob/main/docs/conf0.gif" alt="structure" width="55%"/>
-    <img src="https://github.com/DavDori/rotating_lidar_accumulator_ros2/blob/main/docs/conf0.png" alt="point cloud" width="43.3%"/>
-</p>
 
 ### [DuckPlotter - 2D Plotter](https://github.com/davidezanella/DuckPlotter)
 A lightweight, portable 2D plotter with classical computer vision algorithms for image-to-path conversion.
 
-<img src="https://github.com/davidezanella/DuckPlotter/blob/master/duckplotter.jpg" alt="Duck Plotter Project Image" width="60%">
 
 ## Publications
 
