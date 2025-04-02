@@ -33,6 +33,11 @@ Graduated **110 cum laude / 110**
 ### MRS Summer School
 **Multi-Robot Systems Summer School**  
 **July 2024 | Prague, Czech Republic**
+## Projects
+
+### Agrifood TEF ([link](https://www.agrifoodtef.eu/))
+
+Europen project with the aim of developing testing and experimenting infrastructures to promote the adoption of services and products based on Artificial Intelligence and Robotics in the European agri-food sector. 
 
 ## Personal Projects
 
