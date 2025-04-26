@@ -12,6 +12,7 @@ PhD Candidate passionate about robotic perception, SLAM, and sensor fusion. Work
 
 ### PhD Candidate | University of Trento & Fondazione Bruno Kessler (FBK)
 **November 2023 – Present | Trento, Italy**
+- Benchmarked LiDAR SLAM solutions in unstructured outdoor environments.
 - Integrated LiDARs, UWB, and IMUs into robotic platforms using ROS2.
 - Developed an autonomous navigation stack powered by Machine Learning models.
 - Designed a 3D LiDAR scanner using a rotating 2D LiDAR for cost-effective mapping.
